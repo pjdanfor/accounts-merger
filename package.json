@@ -1,0 +1,25 @@
+{
+  "name": "accounts-merger",
+  "version": "1.0.0",
+  "description": "A simple program to merge accounts to create a listing of people.",
+  "main": "./src/index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjdanfor/accounts-merger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjdanfor/accounts-merger/issues"
+  },
+  "homepage": "https://github.com/pjdanfor/accounts-merger#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
